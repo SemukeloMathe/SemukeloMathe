@@ -22,20 +22,17 @@ Let’s connect, collaborate, or just geek out together 🤍
 
 ---
 
-## 🛠 Languages & Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 🛠 Tech Stack
+React ⚛
+Python
+JavaScript
+MySQL
+MongoDB
 
 ---
 
 ## 📫 Let's Connect!
+LinkedIn - https://www.linkedin.com/in/semukelo-mathe/
+Chess.com - https://www.chess.com/member/semthelegend
+Lichess - https://lichess.org/@/Semmathe
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/](https://www.linkedin.com/in/semukelo-mathe/))
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/SemukeloMathe)
-[![SemTheLegend]()](https://www.chess.com/member/semthelegend)
-[![Semmathe]()](https://lichess.org/@/Semmathe)

@@ -1,27 +1,28 @@
-![Welcome Banner]([https://avatars.githubusercontent.com/u/104757443?v=4](https://media.licdn.com/dms/image/v2/D4D03AQEZEWo1mLl9gw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729357135362?e=1753315200&v=beta&t=DWe6lrbhEl9aNVgz8bK3ObeRIFyuNm-p7Rpy1UYMSL8))
-
 # 👋 Hey there!
 
-Welcome to my digital space! I’m an undergrad BSc IT student with a sharp eye on the financial markets, a growing fascination with blockchain, and an ever-deepening love for cloud computing. When I'm not deep in code or tech theory, you’ll probably find me thinking three moves ahead on a chessboard ♟️.
+Welcome to my digital space! 
+I’m an undergrad BSc IT student with a keen interest in the financial markets, a growing fascination with blockchain, and a deepening desire for cloud computing. 
+When I'm not deep in code or tech theory, you’ll probably find me thinking three to six moves ahead on a chessboard ♟️.
 
-I'm currently sharpening my skills in JavaScript, Python, and React — with plans to dive into PHP, C++, Java, and C# soon. You could say I'm building a full-stack mind 🧠✨
+Currently polishing my JavaScript, Python, and React skills. I have plans to dive into PHP, C++, Java, and C# soon. You could say I'm building a full-stack mind 🧠
 
-Fun fact? My family calls me *Professor* — maybe it's the obsession with learning… or maybe it's the unsolicited tech lectures at dinner 😅
+Fun fact? My family calls me *Professor* 😄. Maybe it's the obsession with learning… or maybe it's the unsolicited tech lectures at dinner 😅
 
 Long-term, I’m working toward becoming an **AWS Solutions Architect**, blending my love for smart systems and scalable design in the cloud.
 
-This repo is all about *me*, my learning journey, and the things I’m passionate about. Whether you're a fellow student, dev, recruiter, or just curious — I’m glad you stopped by. Let’s connect, collaborate, or just geek out together.
+This repo is all about *me*, my learning journey, and the things I’m passionate about. Whether you're a fellow student, dev, recruiter, or just curious, I’m glad you stopped by.
+Let’s connect, collaborate, or just geek out together 🤍
 
 ---
 
-### 🚀 Current Focus  
+## 🚀 Current Focus  
 - 🌐 Learning full stack development  
 - ☁️ Pursuing AWS Solutions Architect path  
 - ♟️ Studying chess strategy for fun & focus  
 
 ---
 
-### 🛠 Languages & Tools
+## 🛠 Languages & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,12 +31,11 @@ This repo is all about *me*, my learning journey, and the things I’m passionat
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-_And soon diving into: PHP, C++, Java, and C#_
-
 ---
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 
 [![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/](https://www.linkedin.com/in/semukelo-mathe/))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/SemukeloMathe)
-
+[![SemTheLegend]()](https://www.chess.com/member/semthelegend)
+[![Semmathe]()](https://lichess.org/@/Semmathe)

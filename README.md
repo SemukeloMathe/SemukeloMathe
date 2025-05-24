@@ -23,16 +23,16 @@ Let’s connect, collaborate, or just geek out together 🤍
 ---
 
 ## 🛠 Tech Stack
-React ⚛
-Python
-JavaScript
-MySQL
-MongoDB
+**React**
+**Python**
+**JavaScript**
+**MySQL**
+**MongoDB**
 
 ---
 
 ## 📫 Let's Connect!
-LinkedIn - https://www.linkedin.com/in/semukelo-mathe/
-Chess.com - https://www.chess.com/member/semthelegend
-Lichess - https://lichess.org/@/Semmathe
+- LinkedIn - https://www.linkedin.com/in/semukelo-mathe/
+- Chess.com - https://www.chess.com/member/semthelegend
+- Lichess - https://lichess.org/@/Semmathe
 

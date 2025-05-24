@@ -1,4 +1,4 @@
-![Welcome Banner](https://i.imgur.com/zQZSWrt.png)
+![Welcome Banner]([https://avatars.githubusercontent.com/u/104757443?v=4](https://media.licdn.com/dms/image/v2/D4D03AQEZEWo1mLl9gw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729357135362?e=1753315200&v=beta&t=DWe6lrbhEl9aNVgz8bK3ObeRIFyuNm-p7Rpy1UYMSL8))
 
 # 👋 Hey there!
 
@@ -36,6 +36,6 @@ _And soon diving into: PHP, C++, Java, and C#_
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/](https://www.linkedin.com/in/semukelo-mathe/))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/SemukeloMathe)
 

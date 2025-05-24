@@ -23,11 +23,11 @@ Let’s connect, collaborate, or just geek out together 🤍
 ---
 
 ## 🛠 Tech Stack
-`**React**`
-`**Python**`
-`**JavaScript**`
-`**MySQL**`
-`**MongoDB**`
+`React`
+`Python`
+`JavaScript`
+`MySQL`
+`MongoDB`
 
 ---
 

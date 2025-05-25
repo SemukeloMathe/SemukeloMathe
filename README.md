@@ -15,10 +15,11 @@ Let’s connect, collaborate, play chess or just geek out together 🤍
 
 ---
 
-## 🚀 Current Focus  
-- 🌐 Learning full stack development  
-- ☁️ Pursuing AWS Solutions Architect path  
-- ♟️ Studying chess strategy for fun & focus  
+## 🚀 Current Focus
+- 🎓 BSC IT
+- 🌐 Full-Stack Development
+- ☁️ Pursuing AWS Solutions Architect
+- ♟️ Studying chess strategy for fun
 
 ---
 

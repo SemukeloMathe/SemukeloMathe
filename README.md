@@ -18,8 +18,8 @@ Let’s connect, collaborate, play chess or just geek out together 🤍
 ## 🚀 Current Focus
 - 🎓 BSC IT
 - 🌐 Full-Stack Development
-- ☁️ Pursuing AWS Solutions Architect
-- ♟️ Studying chess strategy for fun
+- ☁️ AWS Solutions Architect
+- ♟️ Studying Chess
 
 ---
 

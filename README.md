@@ -1,6 +1,4 @@
-# 👋 Hey there!
-
-Welcome to my digital space!
+# 👋 Welcome to my digital space!
 
 I’m on a mission to become a **Software Engineer**, building efficient, scalable, and innovative software that makes a difference. I’m currently pursuing a BSc IT degree while developing my skills in full-stack development and cloud technologies. When I'm not deep in code or tech theory, you’ll probably find me thinking five moves ahead on a chessboard ♟️
 

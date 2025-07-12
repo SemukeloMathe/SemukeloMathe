@@ -2,7 +2,7 @@
 
 I’m on a mission to become a **Software Engineer**, building efficient, scalable, and innovative software that makes a difference. I’m currently pursuing a BSc IT degree while developing my skills in full-stack development and cloud technologies. When I'm not deep in code or tech theory, you’ll probably find me thinking five moves ahead on a chessboard ♟️
 
-Currently polishing my JavaScript, Python, and React skills. I plan to dive into PHP, C++, Java, and C# soon. You could say I'm building a full-stack mind 🧠
+Currently polishing my JavaScript, Python, and React skills. I plan to dive into C++ and Java. You could say I'm building a full-stack mind 🧠
 
 Fun fact? My family calls me *Professor* 😄. Maybe it's the obsession with learning… or maybe it is the sleepless nights on my computer 👨🏽‍💻
 

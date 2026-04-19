@@ -17,7 +17,7 @@ Let’s connect, collaborate, play chess or just geek out together 🤍
 - 🎓 BSC IT
 - 🌐 Full-Stack Development
 - ☁️ AWS Solutions Architect
-- ♟️ Studying Chess
+- ♟️ Chess
 
 ---
 
@@ -34,4 +34,3 @@ Let’s connect, collaborate, play chess or just geek out together 🤍
 - LinkedIn - https://www.linkedin.com/in/semukelo-mathe/
 - Chess.com - https://www.chess.com/member/semthelegend
 - Lichess - https://lichess.org/@/Semmathe
-

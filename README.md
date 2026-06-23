@@ -1,6 +1,6 @@
 # Hi, I'm Sem Mathe - Software Developer
 
-I am a BSc Information Technology student focused on software engineering, scalable systems, and fintech. I enjoy building end-to-end applications and learning through hands-on development.
+I'm a BSc Information Technology student focused on software engineering, scalable systems, and fintech. I enjoy building end-to-end applications and learning through hands-on development.
 
 I have experience building backend systems with FastAPI and Express, and developing frontends using React. I work with PostgreSQL and MongoDB, and have exposure to Redis, Nginx, Docker, AWS, and RabbitMQ. I am actively expanding my knowledge in cloud architecture and distributed systems.
 

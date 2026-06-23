@@ -1,36 +1,68 @@
-# 👋 Welcome to my digital space!
+# Hi, I'm Sem Mathe - Aspiring Software Engineer & AWS Solutions Architect
 
-I’m on a mission to become a **Software Engineer**, building efficient, scalable, and innovative software that makes a difference. I’m currently pursuing a BSc IT degree while developing my skills in full-stack development and cloud technologies. When I'm not deep in code or tech theory, you’ll probably find me thinking five moves ahead on a chessboard ♟️
-
-Currently polishing my JavaScript, Python, and React skills. I plan to dive into C++ and Java. You could say I'm building a full-stack mind 🧠
-
-Fun fact? My family calls me *Professor* 😄. Maybe it's the obsession with learning… or maybe it is the sleepless nights on my computer 👨🏽‍💻
-
-Long-term, I’m working towards becoming an **AWS Solutions Architect**, blending my love for smart systems and scalable design in the cloud.
-
-This repo is all about *me*, my learning journey, and the things I’m passionate about. Whether you're a fellow student, dev, recruiter, or just curious, I’m glad you stopped by.
-Let’s connect, collaborate, play chess or just geek out together 🤍
+I'm pursuing a **BSc in IT** while building expertise in full-stack development and cloud architecture.
+I love creating efficient, scalable systems and solving complex problems.
 
 ---
 
-## 🚀 Current Focus
-- 🎓 BSC IT
-- 🌐 Full-Stack Development
-- ☁️ AWS Solutions Architect
-- ♟️ Chess
+## 🛠 Technical Skills
+
+### Languages
+`Python` `JavaScript` `TypeScript*` `C++*`
+
+### Backend
+`FastAPI` `Express.js` `REST APIs`
+
+### Frontend
+`React` `HTML5` `CSS3`
+
+### Databases & ORMs
+`PostgreSQL` `MySQL` `MongoDB` `Redis`  
+`Prisma` `Drizzle` `SQLAlchemy`
+
+### DevOps & Cloud
+`Docker` `Nginx` `AWS*`
+
+### Messaging
+`Kafka*` `RabbitMQ*`
+
+### Testing & Tooling
+`Git` `GitHub` `Pytest` `Unit Testing`
+
+> *\* currently learning*
+`Java` `Fastify*`
 
 ---
 
-## 🛠 Tech Stack
-`React`
-`Python`
-`JavaScript`
-`MySQL`
-`MongoDB`
+## 🎯 Current Focus
+- Completing my Bachelor of Science in Information Technology
+- Building projects
+- Working towards **AWS Solutions Architect** certification
 
 ---
 
-## 📫 Let's Connect!
-- LinkedIn - https://www.linkedin.com/in/semukelo-mathe/
-- Chess.com - https://www.chess.com/member/semthelegend
-- Lichess - https://lichess.org/@/Semmathe
+## 💻 Projects
+
+### Tutorlink
+*Built to make it easier for students to find qualified tutors and for tutors to connect with learners through a scalable, user-friendly platform*  
+**Tech:** Python, Nodejs, TypeScript, React, FastAPI, Express.js, PostgresSQL, RabbitMQ, AWS, Docker    
+**Links:** [Source Code](#)
+
+### Finnova
+*Built to simplify access to financial services by leveraging modern technology and AI to deliver smarter, more personalized financial experiences*  
+**Tech:** Python, C++, TypeScript, React, FastAPI, PostgreSQL, Kafka, AWS, Docker
+**Links:** [Source Code](#)
+
+---
+
+## 📬 Let's Connect
+
+Open to any software development/engineering roles, collaborations, and connecting with fellow developers.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/semukelo-mathe/)
+[![Chess.com](https://img.shields.io/badge/Chess.com-Play-green)](https://www.chess.com/member/semthelegend)
+[![Lichess](https://img.shields.io/badge/Lichess-Play-brown)](https://lichess.org/@/Semmathe)
+
+---
+
+*Fun fact: My family calls me "Professor" 👨🏽‍💻 — probably the sleepless nights coding and the obsession with learning. Always happy to geek out over code, cloud, or a chess match.*

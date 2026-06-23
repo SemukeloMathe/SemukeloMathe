@@ -16,14 +16,14 @@ I love creating efficient, scalable systems and solving complex problems.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 - Completing my Bachelor of Science in Information Technology
 - Building projects
 - Working towards **AWS Solutions Architect** certification
 
 ---
 
-## 💻 Projects
+## Projects
 
 ### Tutorlink
 *Built to make it easier for students to find qualified tutors and for tutors to connect with learners through a scalable, user-friendly platform*  
@@ -37,7 +37,7 @@ I love creating efficient, scalable systems and solving complex problems.
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 Open to any software development/engineering roles, collaborations, and connecting with fellow developers.
 

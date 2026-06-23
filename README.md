@@ -17,18 +17,18 @@ I focus on solving real-world problems through software and aim to contribute to
 
 ### Finnova
 *Built to simplify access to financial services by leveraging modern technology and AI to deliver smarter, more personalized financial experiences*  
-**Tech:** Python, C++, TypeScript, React, FastAPI, PostgreSQL, Kafka, AWS, Docker
+**Tech:** Python, C++, TypeScript, React, FastAPI, PostgreSQL, RabbitMQ, AWS, Docker
 **Links:** [Source Code](#)
 
 ---
 
 ## Technical Skills
 
-**Backend:** Python, Node.js, C++, Java, FastAPI, Express.js*
-**Frontend:** JavaScript/TypeScript, HTML, CSS, React*
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis*
-**DevOps/Cloud:** Docker, Nginx, AWS ,RabbitMQ*
-**Tools:** Git, Pytest
+- **Backend:** Python, Node.js, C++, Java, FastAPI, Express.js
+- **Frontend:** JavaScript/TypeScript, HTML, CSS, React
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **DevOps/Cloud:** Docker, Nginx, AWS ,RabbitMQ
+- **Tools:** Git, Pytest
 
 ---
 

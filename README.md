@@ -1,28 +1,10 @@
 # Hi, I'm Sem Mathe - Software Developer
 
-I'm a BSc Information Technology student with a strong interest in software engineering. I enjoy building end-to-end applications and continuously expanding my technical expertise through hands-on projects and self-directed learning.
+I am a BSc Information Technology student focused on software engineering, scalable systems, and fintech. I enjoy building end-to-end applications and learning through hands-on development.
 
-My experience includes developing backend services with FastAPI and Express, creating responsive frontends with React, and working with databases such as PostgreSQL and MongoDB. I also have experience with technologies such as Nginx, Redis, Docker, AWS, and RabbitMQ. I am actively deepening my understanding of cloud architecture and distributed systems.
+I have experience building backend systems with FastAPI and Express, and developing frontends using React. I work with PostgreSQL and MongoDB, and have exposure to Redis, Nginx, Docker, AWS, and RabbitMQ. I am actively expanding my knowledge in cloud architecture and distributed systems.
 
-Driven by a passion for solving real-world problems, I seek opportunities to collaborate with talented teams and grow as a software engineer while building reliable, scalable, and impactful systems.
-
----
-
-## Technical Skills
-
-**Languages:** Python, JavaScript *(learning TypeScript, C++, Java)*  
-**Frameworks:** FastAPI, Express.js, React  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis *(Prisma, Drizzle, SQLAlchemy)*  
-**DevOps/Cloud:** Docker, Nginx, AWS*  
-**Messaging:** Kafka*, RabbitMQ*  
-**Tools:** Git, Pytest
-
----
-
-## Current Focus
-- Completing my Bachelor of Science in Information Technology
-- Building projects
-- Working towards **AWS Solutions Architect** certification
+I focus on solving real-world problems through software and aim to contribute to teams building reliable, scalable, and impactful systems.
 
 ---
 
@@ -37,6 +19,23 @@ Driven by a passion for solving real-world problems, I seek opportunities to col
 *Built to simplify access to financial services by leveraging modern technology and AI to deliver smarter, more personalized financial experiences*  
 **Tech:** Python, C++, TypeScript, React, FastAPI, PostgreSQL, Kafka, AWS, Docker
 **Links:** [Source Code](#)
+
+---
+
+## Technical Skills
+
+**Backend:** Python, Node.js, C++, Java, FastAPI, Express.js, 
+**Frontend:** JavaScript/TypeScript, HTML, CSS, React
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis
+**DevOps/Cloud:** Docker, Nginx, AWS ,RabbitMQ  
+**Tools:** Git, Pytest
+
+---
+
+## Current Focus
+- Completing my Bachelor of Science in Information Technology
+- Building projects
+- Working towards **AWS Solutions Architect** certification
 
 ---
 

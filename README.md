@@ -5,32 +5,14 @@ I love creating efficient, scalable systems and solving complex problems.
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
-### Languages
-`Python` `JavaScript` `TypeScript*` `C++*`
-
-### Backend
-`FastAPI` `Express.js` `REST APIs`
-
-### Frontend
-`React` `HTML5` `CSS3`
-
-### Databases & ORMs
-`PostgreSQL` `MySQL` `MongoDB` `Redis`  
-`Prisma` `Drizzle` `SQLAlchemy`
-
-### DevOps & Cloud
-`Docker` `Nginx` `AWS*`
-
-### Messaging
-`Kafka*` `RabbitMQ*`
-
-### Testing & Tooling
-`Git` `GitHub` `Pytest` `Unit Testing`
-
-> *\* currently learning*
-`Java` `Fastify*`
+**Languages:** Python, JavaScript *(learning TypeScript, C++, Java)*  
+**Frameworks:** FastAPI, Express.js, React  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis *(Prisma, Drizzle, SQLAlchemy)*  
+**DevOps/Cloud:** Docker, Nginx, AWS*  
+**Messaging:** Kafka*, RabbitMQ*  
+**Tools:** Git, Pytest
 
 ---
 
@@ -65,4 +47,4 @@ Open to any software development/engineering roles, collaborations, and connecti
 
 ---
 
-*Fun fact: My family calls me "Professor" 👨🏽‍💻 — probably the sleepless nights coding and the obsession with learning. Always happy to geek out over code, cloud, or a chess match.*
+*Fun fact: My family calls me "Professor" — probably cause of the sleepless nights coding*

@@ -1,7 +1,10 @@
-# Hi, I'm Sem Mathe - Aspiring Software Engineer & AWS Solutions Architect
+# Hi, I'm Sem Mathe - Software Developer
 
-I'm pursuing a **BSc in IT** while building expertise in full-stack development and cloud architecture.
-I love creating efficient, scalable systems and solving complex problems.
+I'm a BSc Information Technology student with a strong interest in software engineering. I enjoy building end-to-end applications and continuously expanding my technical expertise through hands-on projects and self-directed learning.
+
+My experience includes developing backend services with FastAPI and Express, creating responsive frontends with React, and working with databases such as PostgreSQL and MongoDB. I also have experience with technologies such as Nginx, Redis, Docker, AWS, and RabbitMQ. I am actively deepening my understanding of cloud architecture and distributed systems.
+
+Driven by a passion for solving real-world problems, I seek opportunities to collaborate with talented teams and grow as a software engineer while building reliable, scalable, and impactful systems.
 
 ---
 

@@ -32,20 +32,11 @@ I focus on solving real-world problems through software and aim to contribute to
 
 ---
 
-## Current Focus
-- Completing my Bachelor of Science in Information Technology
-- Building projects
-- Working towards **AWS Solutions Architect** certification
-
----
-
 ## Let's Connect
 
 Open to any software development/engineering roles, collaborations, and connecting with fellow developers.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/semukelo-mathe/)
-[![Chess.com](https://img.shields.io/badge/Chess.com-Play-green)](https://www.chess.com/member/semthelegend)
-[![Lichess](https://img.shields.io/badge/Lichess-Play-brown)](https://lichess.org/@/Semmathe)
 
 ---
 

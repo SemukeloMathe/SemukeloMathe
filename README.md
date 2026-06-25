@@ -28,7 +28,7 @@ I focus on solving real-world problems through software and aim to contribute to
 - **Frontend:** JavaScript/TypeScript, HTML, CSS, React
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 - **DevOps/Cloud:** Docker, Nginx, AWS ,RabbitMQ
-- **Tools:** Git, Pytest
+- **Tools:** Git, Pytest, CI/CD
 
 ---
 
